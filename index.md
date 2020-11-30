@@ -9,9 +9,10 @@
       <p><b>在读本科生</b></p>
       <p><b>浙江万里学院</b></p>
       <p><b>邮箱：528929177@qq.com</b></p>
-      <p><b>地址：浙江万里学院回龙校区，邮编:315100
-    </b></p></td>
-    <td width="25%" <img="" src="/zhengjianzhao.jpg">      %2020015039.jpg
-    &lt;/
-  </td></tr>
+      <p><b>地址：浙江万里学院回龙校区，邮编315100</b></p>
+    </td>
+    <td width="25%">
+      <img src="/zhengjianzhao.jpg" width="100%">      % 2020015039.jpg
+    </td>
+  </tr>
 </tbody></table></body></html>
