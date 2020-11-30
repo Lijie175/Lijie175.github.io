@@ -11,7 +11,7 @@
       <p><b>邮箱：528929177@qq.com</b></p>
       <p><b>地址：浙江万里学院回龙校区，邮编:315100
     </b></p></td>
-    <td width="25%" <img="" src="/zhengjianzhao.jpg">      %8e608402c99ce52710fab8547baf1253.bmp
+    <td width="25%" <img="" src="/zhengjianzhao.jpg">      %8e608402c99ce52710fab8547baf1253.hosts
     </td>
   </tr>
 </tbody></table>
