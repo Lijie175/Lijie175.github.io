@@ -1,3 +1,4 @@
+
 <html lang="en"><head>
     <meta charset="UTF-8">
     <title></title>
@@ -12,7 +13,7 @@
       <p><b>地址：浙江万里学院回龙校区，邮编315100</b></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">      %2020015039.jpg
+      <img src="2020015039.jpg" width="100%">      %2020015039.jpg
     </td>
   </tr>
 </tbody></table></body></html>
